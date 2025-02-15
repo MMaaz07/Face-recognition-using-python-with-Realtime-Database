@@ -1,0 +1,1 @@
+Put the Images on which Do you want to train the model. Ex:- Put images of persons whose attendence is to recognised.
